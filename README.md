@@ -1,5 +1,7 @@
 # PROJETO1 Construindo a Comunicação Visual do Produto
 
+Projeto feito em dupla: Ray Santiago e Carlos Daniel
+
 # 🧠 TeamHub – Identidade Visual
 
 **TeamHub** é uma plataforma moderna para gestão de equipes remotas, feita para startups que valorizam inovação, acessibilidade e produtividade.
